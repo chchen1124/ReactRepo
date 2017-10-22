@@ -1,3 +1,3 @@
-export * from "./Input";
-export * from "./TextArea";
-export * from "./FormBtn";
+export * from "./Input.js";
+export * from "./TextArea.js";
+export * from "./FormBtn.js";
